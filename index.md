@@ -1,24 +1,24 @@
 #Welcome to Guo lilong's Homepage
 ##Click to find me on
-*[Github] [github]   
-*[My exercises][exercises]
+* [Github] [github]   
+* [My exercises][exercises]
 
 ##Hello Peter
-*[Peter's Github][Peter's Github]   
-*[Peter's Corner][Peter's Corner]   
-*[ts-note][ts-note]   
-*[LGCB][LGCB]   
-*[screencasts][screencasts]
+* [Peter's Github][Peter's Github]   
+* [Peter's Corner][Peter's Corner]   
+* [ts-note][ts-note]   
+* [LGCB][LGCB]   
+* [screencasts][screencasts]
 
 ##Sweet toys
-*[C][C]   
-*[Vim][Vim]   
-*[Git][Git]
-*[Bash][Bash]
-*[W3chool][W3chool]
+* [C][C]    
+* [Vim][Vim]   
+* [Git][Git]   
+* [Bash][Bash]   
+* [W3chool][W3chool]   
 
-#Job
-*[BULG][BULG] 
+##Job
+* [BULG][BULG] 
 
 
 [github]:https://github.com/guolilong2012
@@ -33,4 +33,4 @@
 [Git]:http://progit.org/book/zh/
 [Bash]:http://tldp.org/LDP/Bash-Beginners-Guide/html/
 [W3chool]:http://www.w3school.com.cn/
-[BLUG]:http://www.beijinglug.org/
+[BULG]:http://www.beijinglug.org/
