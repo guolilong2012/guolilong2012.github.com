@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Guo Lilong‘s Corner
+title: Guo Lilong's Corner
 ---
 
 Hi there, I am Guo Lilong.
