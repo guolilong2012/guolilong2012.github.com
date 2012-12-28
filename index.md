@@ -8,7 +8,7 @@ Hi there, I am Guo Lilong.
 <p><b>Find me on:</b></p>
 
 <ul>
-<a herf="http://github.com/guolilong2012/">Github</a></li>
+<li><a herf="http://github.com/guolilong2012/">Github</a></li>
 </ul>
 
 
