@@ -5,7 +5,7 @@ title: Guo Lilong's Corner
 
 Hi there, I am Guo Lilong.
 
-<p><br /><b>Find me on:</b></p>
+<p><br /><br /><b>Find me on:</b></p>
 
 <ul>
 <li><a herf="http://github.com/guolilong2012/">Github</a></li>
