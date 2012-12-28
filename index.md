@@ -5,12 +5,11 @@ title: Guo Lilong's Corner
 
 Hi there, I am Guo Lilong.
 
-<p><b>Find me on:</b></p>
+<p><br /><b>Find me on:</b></p>
 
 <ul>
 <li><a herf="http://github.com/guolilong2012/">Github</a></li>
 </ul>
-
 
 <p><br /><b>Contact Information:</b></p>
 
