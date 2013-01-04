@@ -3,10 +3,13 @@ layout: post
 title: Sweets
 ---
 
-### Good Links
+## Good Links
 Click to view Good [links](links.html)
 
-### Markdown
+## Linux Command
+Click to view usual [Linux Commands](commands.html)
+
+## Markdown
 Click to learn [markdown][md]
 
 
