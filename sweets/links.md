@@ -3,13 +3,10 @@ layout: post
 title: Good Links
 ---
 
-### Projects
-Go to [Github][github-guolilong] to view all my projects
-
-### Markdown
-Click to learn [markdown][md]
+## Linux
+[Detecting Memory Leaks in Kernel][memory leaks]
 
 
 
-[github-guolilong]:http://github.com/guolilong2012
-[md]:http://daringfireball.net/projects/markdown/
+
+[memory leaks]:http://blog.csdn.net/stevenliyong/article/details/6220776
