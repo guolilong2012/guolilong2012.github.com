@@ -4,13 +4,13 @@ title: Sweets
 ---
 
 ## Good Links
-Click to view Good [links](links.html)
+Click to view [Good Links](links.html)
 
 ## Linux Command
 Click to view usual [Linux Commands](commands.html)
 
 ## Markdown
-Click to learn [markdown][md]
+Click to learn [Markdown][md]
 
 
 
