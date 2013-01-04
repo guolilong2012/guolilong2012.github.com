@@ -3,7 +3,7 @@ layout: default
 title: Guo Lilong's Corner
 ---
 
-Hi there, I am Guo Lilong.
+>Hi there, I am Guo Lilong.   
 
 <p><br /><b>Find me on:</b></p>
 
