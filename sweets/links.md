@@ -4,8 +4,8 @@ title: Good Links
 ---
 
 ## Linux
-[Detecting Memory Leaks in Kernel][memory leaks]
-[netlink编程注意事项][netlink]
+ - [Detecting Memory Leaks in Kernel][memory leaks]
+ - [netlink编程注意事项][netlink]
 
 
 
