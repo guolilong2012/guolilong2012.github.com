@@ -3,16 +3,13 @@ layout: default
 title: Guo Lilong's Corner
 ---
 
->Hi there, I am Guo Lilong.   
+>Hi there, I am Guo Lilong.
 
-<p><br /><b>Find me on:</b></p>
+#Find me on:
+>[Github][github]
 
-<ul>
-<li><a href="http://github.com/guolilong2012/">Github</a></li>
-</ul>
+#Contact Information:
+>guolilong2012@sohu.com
 
-<p><br /><b>Contact Information:</b></p>
 
-<blockquote>
-guolilong2012@sohu.com
-</blockquote>
+[github]:http://github.com/guolilong2012
