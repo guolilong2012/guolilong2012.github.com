@@ -8,6 +8,7 @@ title: Good Links
  - [Detecting Memory Leaks in Kernel][memory leaks]
  - [netlink编程注意事项][netlink]
  - [Bash Shell][bash]
+ - [Command][command]
  - [/proc/sysrq-trigger][sysrq-trigger]
 
 ## Markdown
@@ -19,3 +20,4 @@ title: Good Links
 [bash]:http://blog.chinaunix.net/uid-21782158-id-20019.html
 [sysrq-trigger]:http://blog.sina.com.cn/s/blog_807992170100tulx.html
 [markdown]:http://wowubuntu.com/markdown/
+[command]:http://www.commandlinefu.com/commands/browse/sort-by-votes
