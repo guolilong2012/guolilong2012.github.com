@@ -11,6 +11,7 @@ title: Good Links
  - [Detecting Memory Leaks in Kernel][memory leaks]
  - [netlink编程注意事项][netlink]
  - [/proc/sysrq-trigger][sysrq-trigger]
+ - [Ubuntu10.04内核编译][kernel-build]
 
 ## Markdown
  - [Markdown][markdown]
@@ -23,3 +24,4 @@ title: Good Links
 [netlink]:http://blog.csdn.net/sealyao/article/details/4628141
 [sysrq-trigger]:http://blog.sina.com.cn/s/blog_807992170100tulx.html
 [markdown]:http://wowubuntu.com/markdown/
+[kernel-build]:http://blog.csdn.net/gavin_dinggengjia/article/details/6334556
