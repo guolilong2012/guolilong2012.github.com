@@ -12,6 +12,7 @@ title: Good Links
  - [netlink编程注意事项][netlink]
  - [/proc/sysrq-trigger][sysrq-trigger]
  - [Ubuntu10.04内核编译][kernel-build]
+ - [Linux内核数据结构/算法][kernel-data structures and algorithms]
 
 ## Markdown
  - [Markdown][markdown]
@@ -25,3 +26,4 @@ title: Good Links
 [sysrq-trigger]:http://blog.sina.com.cn/s/blog_807992170100tulx.html
 [markdown]:http://wowubuntu.com/markdown/
 [kernel-build]:http://blog.csdn.net/gavin_dinggengjia/article/details/6334556
+[kernel-data structures and algorithms]:http://luisbg.blogalia.com/historias/74062?utm_campaign=Manong_Weekly_Issue_11&utm_medium=EDM&utm_source=Manong_Weekly
