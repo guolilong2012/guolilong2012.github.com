@@ -14,6 +14,7 @@ title: Good Links
  - [Ubuntu10.04内核编译][kernel-build]
  - [Linux内核数据结构/算法][kernel-data structures and algorithms]
  - [socket接口与内核协议栈的挂接][socket]
+ - [iptables原理][iptalbes]
 
 ## Markdown
  - [Markdown][markdown]
@@ -29,3 +30,4 @@ title: Good Links
 [kernel-build]:http://blog.csdn.net/gavin_dinggengjia/article/details/6334556
 [kernel-data structures and algorithms]:http://luisbg.blogalia.com/historias/74062?utm_campaign=Manong_Weekly_Issue_11&utm_medium=EDM&utm_source=Manong_Weekly
 [socket]:http://www.kuqin.com/shuoit/20140104/337424.html
+[iptables]:http://www.cnblogs.com/ggjucheng/archive/2012/08/19/2646466.html
