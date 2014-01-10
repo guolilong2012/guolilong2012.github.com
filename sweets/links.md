@@ -13,6 +13,7 @@ title: Good Links
  - [/proc/sysrq-trigger][sysrq-trigger]
  - [Ubuntu10.04内核编译][kernel-build]
  - [Linux内核数据结构/算法][kernel-data structures and algorithms]
+ - [socket接口与内核协议栈的挂接][socket]
 
 ## Markdown
  - [Markdown][markdown]
@@ -27,3 +28,4 @@ title: Good Links
 [markdown]:http://wowubuntu.com/markdown/
 [kernel-build]:http://blog.csdn.net/gavin_dinggengjia/article/details/6334556
 [kernel-data structures and algorithms]:http://luisbg.blogalia.com/historias/74062?utm_campaign=Manong_Weekly_Issue_11&utm_medium=EDM&utm_source=Manong_Weekly
+[socket]:http://www.kuqin.com/shuoit/20140104/337424.html
