@@ -16,6 +16,9 @@ title: Good Links
  - [socket接口与内核协议栈的挂接][socket]
  - [iptables原理][iptables]
  - [linux 串口编程][linux serial]
+ - [netfilter][netfilter]
+ - [L7-filter][L7-filter]
+ - [IPP2P][IPP2P]
 
 ## Markdown
  - [Markdown][markdown]
@@ -33,3 +36,6 @@ title: Good Links
 [socket]:http://www.kuqin.com/shuoit/20140104/337424.html
 [iptables]:http://www.cnblogs.com/ggjucheng/archive/2012/08/19/2646466.html
 [linux serial]:http://blog.csdn.net/mtv0312/article/details/6599162
+[netfilter]:http://blog.chinaunix.net/uid-22590270-id-3245147.html
+[L7-filter]:http://l7-filter.sourceforge.net/
+[IPP2P]:http://www.ipp2p.org/
